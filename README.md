@@ -1,5 +1,5 @@
 
-Como usar?
+# Como usar?
 1. Acesse chrome://extensions/.
 2. No canto superior direito, ative o Modo do desenvolvedor.
 3. Clique em Carregar sem compactação.
@@ -14,7 +14,7 @@ Como usar?
 
 
 
-## Extensões
+# Extensões
 
 Notepad-CopyPaste-SwitchRefreshTabs
 
