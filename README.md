@@ -5,7 +5,7 @@ Como usar?
 2. No canto superior direito, ative o Modo do desenvolvedor.
 3. Clique em Carregar sem compactação.
 4. Encontre e selecione a pasta do app ou extensão.
-5. Abra uma nova guia no Chromee > clique em Appse > clique no app ou extensão. Verifique se ele foi carregado e funciona corretamente.
+5. Abra uma nova guia no Chromee > clique em Apps > e clique no app ou extensão. Verifique se ele foi carregado e funciona corretamente.
 
 
 ![image](https://user-images.githubusercontent.com/67348179/214966407-a62e1400-d84b-4b6a-ba30-a00604bef916.png)
