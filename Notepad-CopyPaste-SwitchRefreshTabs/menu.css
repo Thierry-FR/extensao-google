@@ -1,0 +1,94 @@
+body {
+  margin: 0;
+  height: 280px;
+  width: 241px;
+  background: linear-gradient(109.7deg, rgb(202, 50, 50) 5.7%, rgb(252, 195, 12) 92.4%);
+}
+
+button , #txtconcatenar{
+  margin-top: 8px;
+  width: 100%;
+  background-color: rgb(10, 2, 2);
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+#btnConcatenar {  
+  margin-top: 10px;
+  margin-left: 5px;
+  padding: 0px;
+  width: 50px;
+  height: 72px;
+  position: fixed;
+} 
+
+#txtconcatenar {
+  width: 174px;
+  font-size: 11px;
+}
+
+#btnConcatenar img{
+  width: 40px; 
+  height: 40px;
+}
+
+#copyright{
+  margin-top: 10px;
+  margin-left: 10px;
+  position: fixed;
+  color: white;
+}
+
+#seta img{
+  width: 30px;
+  height: 30px;
+  position: fixed;
+  margin-left: 199px;
+  cursor: pointer;
+}
+
+#btnHelp img{
+  width: 20px;
+  height: 20px;
+  position: fixed;
+  margin-left: 150px;
+  margin-top: 6px;
+}
+
+#btnAtivarMacros {
+  margin: 0;
+  margin-top: 10px;
+  padding: 5px 30px;
+  border-radius: 6px;
+  color: #ffffff;
+  font-size: 12px;
+  cursor: pointer;
+  border: 1px solid;
+}
+
+#boxMenu{
+  height: 240px;
+  width: 221px;
+  margin-left: 10px;
+}
+
+#boxAnotacoes h2 {
+  margin-left: 55px;
+  color: white;
+}
+
+#boxMacros h2 {
+  margin-left: 70px;
+}
+
+#boxMacros{
+  color: white;
+  padding: 6px;
+  border-radius: 5px;
+  margin: 5px;
+  height: 220px;
+}
