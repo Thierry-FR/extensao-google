@@ -13,6 +13,6 @@ Como usar?
 ![image](https://user-images.githubusercontent.com/67348179/214966521-22a923a1-d4f7-4e7d-91dd-b5daf0868f30.png)
 
 
-
+Notepad-CopyPaste-SwitchRefreshTabs
 ![image](https://user-images.githubusercontent.com/67348179/214969570-5cd272cd-8492-4ffe-980b-9684c55bf982.png)
 
