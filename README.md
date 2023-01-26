@@ -1,4 +1,3 @@
-# extensao-google
 
 Como usar?
 1. Acesse chrome://extensions/.
@@ -15,7 +14,7 @@ Como usar?
 
 
 
-# Extensões
+## Extensões
 
 Notepad-CopyPaste-SwitchRefreshTabs
 
